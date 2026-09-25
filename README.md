@@ -54,7 +54,7 @@ An introduction to contextual interpretation of satellite imagery and the role o
 Examples of how Earth Observation and GIS can support analysis of urban growth, the built environment, environmental exposure, inequality, sustainability and climate-related risks.
 
 #### Hands-on Workshop: From Flood Mapping to Critical Infrastructure Accessibility
-**Stefanos Georganos & Amalia Chantziara**
+**Amalia Chantziara**
 
 A guided practical workflow connecting Earth Observation-based flood information with roads, critical infrastructure and accessibility analysis.
 
