@@ -7,7 +7,7 @@ A hands-on Earth Observation workshop that follows a real flood event from start
 
 The workshop was developed for the **SESAC Beginner Earth Observation Analysis Series**, held in Lund, Sweden, in September 2026.
 
-**Instructors:** Stefanos Georganos & Amalia Chantziara
+**Instructors:** Amalia Chantziara
 
 ---
 
@@ -126,8 +126,6 @@ Workshop material and notebook developed by:
 
 **Amalia Chantziara**  
 SESAC Project Assistant
-
-The workshop forms part of the **SESAC Beginner Earth Observation Analysis Series** and was delivered by **Stefanos Georganos and Amalia Chantziara**.
 
 SESAC — the **Swedish Competence Centre for Satellite-Enabled Social Science Analytics** — is funded by the **Swedish National Space Agency (Rymdstyrelsen)**.
 
