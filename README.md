@@ -67,7 +67,7 @@ Examples of how Earth Observation and GIS can support analysis of urban growth, 
 
 #### Hands-on Workshop: From Flood Mapping to Critical Infrastructure Accessibility
 
-**Stefanos Georganos & Amalia Chantziara**
+**Amalia Chantziara**
 
 A guided practical workflow connecting Earth Observation-based flood information with roads, critical infrastructure and accessibility analysis.
 
